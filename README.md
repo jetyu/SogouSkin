@@ -9,5 +9,5 @@ Sogou Skin for macOS
 下载地址：
 [极·黑蓝](https://github.com/jetyu/SogouSkin/releases/)
 
-预览效果
+预览效果:
 ![](https://raw.githubusercontent.com/jetyu/SogouSkin/master/Skin_Review.png)
